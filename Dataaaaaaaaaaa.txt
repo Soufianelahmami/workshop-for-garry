@@ -46,15 +46,15 @@
 
   "number_of_inters_to_show": 2,
   
-  "onesignal_id": "xxxxxxx",
+  "onesignal_id": "5872e222-a4f7-47a8-a61d-210c031e2f9f",
   
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/JFWr71V.webp",
+	 "title": "workshop for garry 1",
+	 "text": "If you're referring to Garry's Mod, a popular sandbox game, you could organize a workshop on creating custom content for Garry's Mod. This might include modding, map creation, and scripting within the game.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -66,10 +66,10 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/JFWrYrB.webp",
+	 "title": "workshop for garry 2",
+	 "text": "If Garry is a specific individual, consider tailoring a workshop to his professional development needs. It could focus on leadership skills, effective communication, project management, or any other skills relevant to his field.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -81,10 +81,10 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/JFWrTzb.webp",
+	 "title": "workshop for garry 3",
+	 "text": "If you're thinking of gardening or landscaping, a workshop on sustainable gardening practices, urban gardening, or creating a garden design could be interesting.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -96,10 +96,10 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/JFWruXj.webp",
+	 "title": "workshop for garry 4",
+	 "text": "If Garry is interested in graphic design, a workshop on using design software, understanding design principles, or creating a portfolio could be beneficial.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -111,10 +111,10 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/JFWr5qQ.webp",
+	 "title": "workshop for garry 5",
+	 "text": "If Garry enjoys cooking, you could organize a gourmet cooking workshop. Focus on advanced cooking techniques, exotic cuisines, or even molecular gastronomy.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -126,10 +126,10 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/JFWrALx.webp",
+	 "title": "workshop for garry 6",
+	 "text": "If Garry is interested in environmental issues, a workshop on green energy solutions, sustainable living practices, or eco-friendly technologies could be appealing.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
